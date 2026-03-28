@@ -1,0 +1,6 @@
+TDM-GCC-64/
+lib/
+tests/_out/
+pycache/
+*.7z
+
