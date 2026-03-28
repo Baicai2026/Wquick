@@ -1,3 +1,18 @@
+# Wquick
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub release](https://img.shields.io/github/release/Baicai2026/Wquick)
+
+**一门简洁、易上手的编程语言，学生自主研发。**
+
+- 🎯 **简洁语法** – 贴近自然语言，学习成本低  
+- ⚡ **本地执行** – 编译为原生 .exe，无需运行时  
+- 📦 **内置工具** – 自带 g++ 编译器，开箱即用  
+- 🕙 **time 标准库** – 1.5 新增 sleep / getTime / time()  
+
+[🚀 快速开始](#快速开始) · [📖 语言速览](#语言速览) · [💾 下载 1.5.0](https://github.com/Baicai2026/Wquick/releases)
+
+
 # Wquick 1.5
 
 **Wquick** 是一门简洁、易上手的编程语言，语法设计贴近自然语言，编译后生成本地可执行程序。
